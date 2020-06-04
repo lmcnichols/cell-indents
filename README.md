@@ -1,8 +1,8 @@
 # Cell Borders
 
-![Github Actions Status](https://github.com/lmcnichols/cell-borders/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/lmcnichols/cell-indents/workflows/Build/badge.svg)
 
-Adds to the menu a way to customize the border of cells.
+Creates a keyboard shortcut and a menu option for adding indentation to cells.
 
 
 
@@ -13,7 +13,7 @@ Adds to the menu a way to customize the border of cells.
 ## Install
 
 ```bash
-jupyter labextension install Cell Borders
+jupyter labextension install @loganamcnichols/cell-indents
 ```
 
 ## Contributing

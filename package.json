@@ -1,15 +1,15 @@
 {
-  "name": "Cell-Borders",
+  "name": "@loganamcnichols/cell-indents",
   "version": "0.1.0",
-  "description": "Adds to the menu a way to customize the border of cells.",
+  "description": "Adds a menu option and a keyboard shortcut for indenting cells.",
   "keywords": [
     "jupyter",
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/lmcnichols/cell-borders",
+  "homepage": "https://github.com/lmcnichols/cell-indents",
   "bugs": {
-    "url": "https://github.com/lmcnichols/cell-borders/issues"
+    "url": "https://github.com/lmcnichols/cell-indents/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Logan McNichols",
@@ -22,7 +22,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lmcnichols/cell-borders.git"
+    "url": "https://github.com/lmcnichols/cell-indents.git"
   },
   "scripts": {
     "build": "tsc",
